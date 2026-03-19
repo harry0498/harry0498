@@ -30,5 +30,5 @@ Full-stack developer with 6 years of experience. BSc Computer & Cyber Security (
 -----
 
 <p align="center">
-  <a href="https://harryj.dev">harryj.dev</a> · <a href="mailto:[email protected]">[email protected]</a>
+  <a href="https://harryj.dev">harryj.dev</a> · <a href="mailto:contact@harryj.dev">contact@harryj.dev</a>
 </p>
